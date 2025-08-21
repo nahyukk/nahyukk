@@ -12,7 +12,7 @@ a backend developer with a product mindset
   <img src="https://img.shields.io/badge/⚪️ Mag's Devlog-D23677?style=badge"/>
 </a>
 
-##### 🖥️ Skills 💻
+##### 🖥️ Tech Stack💻
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=badge&logo=springsecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/JWT-000000?style=badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring AI-6DB33F?style=badge&logo=spring&logoColor=white"/>
 <br />
