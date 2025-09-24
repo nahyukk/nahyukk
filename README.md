@@ -1,5 +1,5 @@
 **👋 Hi there, I’m Nahyun Kim**    
-a backend developer with a product mindset
+a backend/fullstack developer with a product mindset
 
 ### 🦥 About Me 🦥
 <a href="https://mag-devlog.vercel.app/resume">
